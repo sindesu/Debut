@@ -67,11 +67,11 @@
       "header": {
         "type": "header",
         "settings": {
-          "align_logo": "left",
-          "logo": "shopify:\/\/shop_images\/1.2-Logo_vertical.png",
-          "logo_max_width": "260",
+          "align_logo": "center",
+          "logo": "shopify:\/\/shop_images\/1_a5446a05-229b-42af-8f92-71fa92e8f9f6.png",
+          "logo_max_width": "155",
           "main_linklist": "main-menu",
-          "phone_text": "+1-800-806-0716",
+          "phone_text": "",
           "message": false,
           "message_text": "TODAY: Worldwide shipping only $2.95 ❤",
           "banner_text": "Want 5% DISCOUNT? Use discount code FOX5. Valid for 10 minutes.",
@@ -84,14 +84,14 @@
       "hero": {
         "type": "hero",
         "settings": {
-          "image": "shopify:\/\/shop_images\/photo-1484081064812-86e90e107fa8.jpg",
+          "image": "shopify:\/\/shop_images\/back-view-mockup-of-a-woman-wearing-a-hoodie-32441a.png",
           "alignment": "center",
-          "title": "Check out our new collections.",
-          "text": "<p>Save up to 50% on selected items!<\/p>",
+          "title": "Learn about our why",
+          "text": "<p>Click Below <\/p>",
           "hero_size": "medium",
           "text_size": "large",
-          "button_label": "SHOP NOW",
-          "button_link": "shopify:\/\/collections"
+          "button_label": "Learn More",
+          "button_link": ""
         }
       },
       "footer": {
@@ -211,8 +211,8 @@
           "1509357808487-0": {
             "type": "text",
             "settings": {
-              "title": "NOT JUST A VOYAGE… We Go and Bring back the World",
-              "text": "<p>How do you feel when a loved one goes on a journey and returns&hellip;with a special gift? Something new, that makes you dream of the lands where it came from&hellip; Something you will never want to lose, because you know you won&rsquo;t find it by just walking down the street or even going to the mall&hellip; Something exciting and just for you!<\/p>\n<p>It is a great feeling and at Fox Stark we want you to feel this way all of the time.<\/p>\n<p>Fox Stark&nbsp; is a store that was started by three friends after they met while travelling the world. The store was set up because they have a passion to share unique products that they discover during their travels round the world.<br><br>Fox Stark<\/p>",
+              "title": "The Bigger Picture.",
+              "text": "<p>Giving people the opportunity to express themselves. The arts are an essential part of our lives that many take for granted. Ranging from music all the way to the books we read art is in our lives in one way or another.<\/p><p><strong>     Eauthentix<\/strong> will be giving support to schools, colleges, and other entities in need. This could be in the form of covering instrument repair costs for a local high school band or purchasing art materials for a college. Choosing to express yourself through <strong>Eauthentix<\/strong> means that you're putting a smile on a child's face as they paint their first picture. It means that a teenager can discover drama and use that as a creative outlet. It means that you are giving someone a chance to shine.<\/p><p>Thank you for being a part of this journey.<\/p>",
               "width": "100%",
               "alignment": "center",
               "align_text": "left"
@@ -223,7 +223,7 @@
           "1509357808487-0"
         ],
         "settings": {
-          "title": "About Fox Stark"
+          "title": "About Eauthentix"
         }
       }
     },
@@ -262,7 +262,8 @@
       "sections": {
         "header": {
           "type": "header",
-          "settings": {}
+          "settings": {
+          }
         },
         "hero": {
           "type": "hero",
@@ -275,18 +276,21 @@
           "blocks": {
             "slideshow-0": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             },
             "slideshow-1": {
               "type": "image",
-              "settings": {}
+              "settings": {
+              }
             }
           },
           "block_order": [
             "slideshow-0",
             "slideshow-1"
           ],
-          "settings": {}
+          "settings": {
+          }
         },
         "featured-collections": {
           "type": "collection",
@@ -296,7 +300,8 @@
         },
         "feature-row": {
           "type": "feature-row",
-          "settings": {}
+          "settings": {
+          }
         },
         "footer": {
           "type": "footer",
