@@ -67,14 +67,14 @@
       "header": {
         "type": "header",
         "settings": {
-          "align_logo": "center",
+          "align_logo": "left",
           "logo": "shopify:\/\/shop_images\/1_a5446a05-229b-42af-8f92-71fa92e8f9f6.png",
           "logo_max_width": "155",
           "main_linklist": "main-menu",
           "phone_text": "",
           "message": false,
-          "message_text": "TODAY: Worldwide shipping only $2.95 ❤",
-          "banner_text": "Want 5% DISCOUNT? Use discount code FOX5. Valid for 10 minutes.",
+          "message_text": "",
+          "banner_text": "",
           "message_link": "",
           "colorbanner_bg": "#53d410",
           "color_bg": "#000000",
@@ -136,8 +136,8 @@
       "1495554487076": {
         "type": "newsletter",
         "settings": {
-          "title": "Join the tribe",
-          "subtitle": "Never miss the hot new products and deals, we promise to never spam you!",
+          "title": "Never miss out",
+          "subtitle": "Always be in the know by entering your e-mail below!",
           "show_background": true
         }
       },
@@ -147,13 +147,13 @@
           "1508981222613-0": {
             "type": "featured_collection",
             "settings": {
-              "collection": "gadgets"
+              "collection": "all-clothing"
             }
           },
           "1508981222613-1": {
             "type": "featured_collection",
             "settings": {
-              "collection": "kids"
+              "collection": "accessories"
             }
           },
           "1508981222613-2": {
@@ -161,33 +161,12 @@
             "settings": {
               "collection": "christmas-gifts-decorations"
             }
-          },
-          "1509358030931": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "cooking-baking"
-            }
-          },
-          "1509358056791": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "home-living"
-            }
-          },
-          "1509358043836": {
-            "type": "featured_collection",
-            "settings": {
-              "collection": "beauty"
-            }
           }
         },
         "block_order": [
           "1508981222613-0",
           "1508981222613-1",
-          "1508981222613-2",
-          "1509358030931",
-          "1509358056791",
-          "1509358043836"
+          "1508981222613-2"
         ],
         "settings": {
           "title": "Trending collections",
@@ -197,8 +176,8 @@
       "1509357672432": {
         "type": "collection",
         "settings": {
-          "title": "Collection of the day",
-          "collection": "christmas-gifts-decorations",
+          "title": "Our Favorites",
+          "collection": "our-favorites",
           "grid": "3",
           "rows": "2",
           "show_vendor": false,
